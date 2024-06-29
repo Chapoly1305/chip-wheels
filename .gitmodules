@@ -1,5 +1,5 @@
 [submodule "connectedhomeip"]
 	path = connectedhomeip
-	url = https://github.com/project-chip/connectedhomeip.git
-	branch = master
+	url = https://github.com/Chapoly1305/connectedhomeip.git
+	branch = Chapoly_v1.3
 	fetchRecurseSubmodules = false
