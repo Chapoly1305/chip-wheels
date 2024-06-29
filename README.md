@@ -15,3 +15,5 @@ Assistant CHIP repositories at:
 - [home-assistant-chip-core](https://pypi.org/project/home-assistant-chip-core/) (contains the native dependency)
 - [home-assistant-chip-clusters](https://pypi.org/project/home-assistant-chip-clusters/)
 
+## Github Action 
+The Github Action will trigger a build when there is a new push. 
